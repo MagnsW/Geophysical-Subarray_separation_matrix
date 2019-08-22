@@ -1,0 +1,9 @@
+*.log
+*.ppt
+*.pptx
+*.xlsx
+*.png
+*.tar
+*.zip
+.DS_store
+/rawlogs
